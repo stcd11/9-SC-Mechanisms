@@ -1,0 +1,158 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: An Introduction to Mechanisms
+#+AUTHOR: Marc Scott
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Cams
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- A mechanism is a device that takes an input motion or force and outputs a different motion or force.
+- Gears trains, for instance, are a type of mechanism.
+[[https://upload.wikimedia.org/wikipedia/commons/1/14/Gears_animation.gif]]
+- This gear train takes rotary motion as input, and outputs rotary motion. The difference between the input and output is the speed and direction of the motion.
+- In this project you're going to be looking at different type mechanism called a Cam Mechanism.
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Cam mechanisms turn rotary motion (round and round) into reciprocating motion (up and down)
+[[https://upload.wikimedia.org/wikipedia/commons/4/41/Nockenwelle_ani.gif]]
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- A cam mechanism is made up of three main parts: cam, slide and follower. In the image below, the slide (or guide) is the red ring.
+[[https://msc-ks3technology.wikispaces.com/file/view/Cam3D.png/32381945/Cam3D.png]]
+- The cam rotates continually. The follower is a rod that rests on the edge of the turning cam.
+- The follower moves up and down, but can't move to the side because of the slide or guide.
+- This means the cam follower can only:
+  - Rise
+  - Fall
+  - Dwell
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- We can draw what are know as =displacement graphs= for any cam mechanism.
+- A displacement graph shows how the follower moves as the cam rotates.
+- Below is a quick sketch of a displacement graph with the cam drawn beside it.
+[[file:img/displacement-graph.jpg]]
+- The graph clearly shows how the follower =rises=, =dwells= for a small ammount of time, =falls= and then =dwells= for a longer period.
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- For each of the cams listed below, try to =roughly= sketch the displacement graphs you think you would get.
+  1. Elliptical cam
+  2. Eccentric cam
+  3. Drop cam
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Using SolidWorks, produce two of the Cams below (Not Eccentric, Round or Ellipse though).
+- The Cam's diameter must not exceed 60mm.
+[[file:img/cams.jpg]]
+- Don't worry about putting the hole in the middle, we'll do that later.
+- Screenshot your finished sketches including the part where it states your sketch is fully defined.
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- SolidWorks can be used to produce animations.
+- Independently (or with a little help from your teacher), produce an animation of one of your cams rotating.
