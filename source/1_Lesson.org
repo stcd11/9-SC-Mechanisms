@@ -93,7 +93,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Cams
+* Levers
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -101,58 +101,74 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- A mechanism is a device that takes an input motion or force and outputs a different motion or force.
-- Gears trains, for instance, are a type of mechanism.
-[[https://upload.wikimedia.org/wikipedia/commons/1/14/Gears_animation.gif]]
-- This gear train takes rotary motion as input, and outputs rotary motion. The difference between the input and output is the speed and direction of the motion.
-- In this project you're going to be looking at different type mechanism called a Cam Mechanism.
-** Learn It
+- Archimedes is quoted as having said;
+#+begin_quote
+Give me a place to stand, and I shall move the Earth with it
+#+end_quote
+[[https://upload.wikimedia.org/wikipedia/commons/5/51/Archimedes_lever_%28Small%29.jpg]]
+- A lever is characterised by a =beam=, which is hinged by a =fulcrum=.
+  [[http://upload.wikimedia.org/wikipedia/commons/0/03/LeverFirstClass.svg]]
+** Research It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
+:HTML_CONTAINER_CLASS: research
 :END:
-- Cam mechanisms turn rotary motion (round and round) into reciprocating motion (up and down)
-[[https://upload.wikimedia.org/wikipedia/commons/4/41/Nockenwelle_ani.gif]]
-** Learn It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- A cam mechanism is made up of three main parts: cam, slide and follower. In the image below, the slide (or guide) is the red ring.
-[[https://msc-ks3technology.wikispaces.com/file/view/Cam3D.png/32381945/Cam3D.png]]
-- The cam rotates continually. The follower is a rod that rests on the edge of the turning cam.
-- The follower moves up and down, but can't move to the side because of the slide or guide.
-- This means the cam follower can only:
-  - Rise
-  - Fall
-  - Dwell
-** Learn It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- We can draw what are know as =displacement graphs= for any cam mechanism.
-- A displacement graph shows how the follower moves as the cam rotates.
-- Below is a quick sketch of a displacement graph with the cam drawn beside it.
-[[file:img/displacement-graph.jpg]]
-- The graph clearly shows how the follower =rises=, =dwells= for a small ammount of time, =falls= and then =dwells= for a longer period.
+- There are three classes of lever (Class 1, Class 2 and Class 3)
+- Use online resources to find out about the three classes of lever and then complete the Silver Badge task.
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- For each of the cams listed below, try to =roughly= sketch the displacement graphs you think you would get.
-  1. Elliptical cam
-  2. Eccentric cam
-  3. Drop cam
+- Copy and complete the following three sentences.
+*** First-class lever
+A first-class lever is a lever where the =__________= is in between the effort and resistance (the load). =__________= and  =__________= are examples of first class levers.
+*** Second-class lever
+A second-class lever is where the resistance is between the =__________= and the =_________=. =___________= and =_________= are examples of second class levers.
+*** Third-class lever
+A third class lever is where the =__________= is between the resistance and the =___________=. =_________= and =____________= are examples of third class levers.
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- You're going to use the Wacano to design and build some levers.
+- Use the image below as a guide, and build a First-class lever.
+[[file:img/First_Class_Lever.gif]]
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Using SolidWorks, produce two of the Cams below (Not Eccentric, Round or Ellipse though).
-- The Cam's diameter must not exceed 60mm.
-[[file:img/cams.jpg]]
-- Don't worry about putting the hole in the middle, we'll do that later.
-- Screenshot your finished sketches including the part where it states your sketch is fully defined.
+- Using the connectors as beams, your finger as the effort and an elastic band as the resistance, build all three classes of leaver, and use video to evidence them working.
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Levers can amplify an input force to provide a larger output force.
+[[http://upload.wikimedia.org/wikipedia/commons/c/c3/Lever_Principle_3D.png]]
+- If you look at the diagram above, the lever is said to be balanced.
+- This is because the product of the mass on the left multiplied by it's distance from the fulcrum, is equal to the product of the mass on the right, multiplied by it's distance to the fulcrum.
+- The equation (written above the image) allows us to easily calculate output forces for any class of lever. We can change the sybols a little to make it easier to use.
+#+begin_html
+<math>
+
+  <msub>
+    <mi>F</mi>
+    <mi>input</m>
+  </msub>
+<mo>x</mo>
+<mi>a</mi>
+<mo>=</mo>
+  <msub>
+    <mi>F</mi>
+    <mi>output</m>
+  </msub>
+<mo>x</mo>
+<mi>b</mi>
+</math>
+#+end_html
+- Look at this example calculation
+[[file:img/levercalc.jpg]]
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- SolidWorks can be used to produce animations.
-- Independently (or with a little help from your teacher), produce an animation of one of your cams rotating.
+- Below are some diagrams of levers. For each one, calculate the input force required and make sure your answer is in Newtons (N).
+[[file:img/leverquestions.jpg]]
