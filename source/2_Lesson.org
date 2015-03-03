@@ -1,0 +1,194 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: An Introduction to Mechanisms
+#+AUTHOR: Marc Scott
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Pulleys
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- A Pulley is a wheel on a shaft that can move a belt along it's circumference.
+- Pulleys can be used to lift loads and transmit motion.
+[[http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flachriemen.png/670px-Flachriemen.png]]
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- We can use pulleys to increase or decrease the speed of rotary motion.
+- Look at the diagram below
+[[https://www.bbc.co.uk/staticarchive/97fe6399a4d793223ee9826adee2b5017e17d385.gif]]
+- The =driver= pulley has a diameter of 40mm and revolves at 100 revolutions per minute (=rpm=).
+- The =driven= pulley has a diameter of 120mm
+- If we want to calculate the rpm of the driven pulley, we first need to find out the =velocity ratio=.
+#+begin_html
+<math>
+<mi>velocity ratio</mi>
+<mo>=</mo>
+<mfrac>
+<mi>diameter of driven pulley</mi>
+<mi>diameter of driver pulley</mi>
+</mfrac>
+</math>
+#+end_html
+- So in this case we can see that...
+#+begin_html
+<math>
+<mi>velocity ratio</mi>
+<mo>=</mo>
+<mfrac>
+<mn>120</mn>
+<mn>40</mn>
+</mfrac>
+<mo>=</mo>
+<mn>3</mn>
+</math>
+#+end_html
+- The output speed of a pulley system is calculated as follows.
+#+begin_html
+<math>
+<mi>output speed</mi>
+<mo>=</mo>
+<mfrac>
+<mi>input speed</mi>
+<mi>velocity ratio</mi>
+</mfrac>
+</math>
+#+end_html
+- So in this case we can see that
+#+begin_html
+<math>
+<mi>output speed</mi>
+<mo>=</mo>
+<mfrac>
+<mi>100</mi>
+<mi>3</mi>
+</mfrac>
+<mo>=</mo>
+<mn>33.3</mn>
+</math>
+#+end_html
+- So the driven pulley will rotate at 33.3rpm.
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- For each of the problems below - draw a diagram of the pulleys described and then calculate the answer.
+  1. A driver pulley has a diameter of 200mm and rotates with a speed of 60rpm. Calculate the speed of a driven pulley with a diameter of 50mm.
+  2. A driver pulley has a diameter of 80mm and rotates with a speed of 250rpm. Calculate the speed of a driven pulley with a diameter of 400mm.
+  3. A driver pulley has a diameter of 100mm and rotates with a speed of 50rpm. Calculate the required diameter of a driven pulley if we want it to rotate at 125rpm.
+  4. We have a driver pulley with a diameter of 60mm. And a driven pulley with a diameter of 20mm. What speed will the driver pulley need if the driven pulley must rotate at a speed of 90rpm?
+  5. A driven pulley has a diameter of 10mm and must rotate at a speed of 100rpm. What diameter will the driver pulley need if it can only rotate at 25rpm?
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Use the Wacano sets to put together the following mechanisms
+  1. A 1:2 pulley ratio
+  2. A 2:3 pulley ratio
+  3. A 1:1 pulley ratio that reverses the direction of rotation
+- Photograph your work
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- We can also use Pulley Systems to lift loads.
+- Look at the video below and set up the same pulley system with your Wacano set.
+- What is the relationship between the length of string you pull through the top pulley, and the height the second pulley moves?
+- Does this ratio alter if you use different sized pulleys?
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bnizHHt92w0" frameborder="0" allowfullscreen></iframe>
+#+end_html
