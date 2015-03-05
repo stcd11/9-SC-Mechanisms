@@ -1,0 +1,170 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: An Introduction to Mechanisms
+#+AUTHOR: Marc Scott
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Linkages
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Linkages are mechanisms which allow engineers to alter force and/or motion to perform useful functions.
+- We can use linkages to change:
+  - The direction of motion
+  - The type of motion
+  - The size of a force
+- A linkage is made up of connected rods and pivots.
+- The motion and/or force that is input at one end of a mechanical linkages is different from the output.
+
+** Learn It - Reverse-motion linkage
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- A reverse-motion linkage changes the direction of motion.
+- The reverse-motion linkage in the video below, alters the direction of motion. Pushing as input, becomes pulling as output, and vice versa
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/osfSmG9tfck?rel=0&loop=1&playlist=osfSmG9tfck" frameborder="0" allowfullscreen></iframe>
+#+end_html
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+1. Replicate the reverse-motion linkage shown above using Wacano
+2. Adjust the pivot, so that a small input displacement becomes a large output displacement.
+3. Adjust the pivot, so that a small input force becomes a large output force.
+** Learn It - Parallel-motion linkage
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- A parallel-motion linkage creates an identical parallel motion with regard to direction.
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MN9UhHINXDw?rel=0" frameborder="0" allowfullscreen></iframe>
+#+end_html
+- The setup above shows a parallel linkage that transfers identical motion.
+- By adjusting the pivot points, we can alter sizes of motion and/or forces.
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Set up a parallel linkage using Wacono, to give provide the largest possible force on the rubber band.
+- If an input force of 5N moving a distance of 10cm was used, what would be the output force if the output distance was 2cm?
+** Learn It - Bell-crank linkage
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:      
+- A bell-crank linkage changes the direction of movement through 90°.
+- A bell-crank linkage looks a like an "L".
+- By pulling (or pushing) the linkage in one direction, it creates a similar motion at the other end of the linkage at 90°.
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-nuAhMMAbXw?rel=0" frameborder="0" allowfullscreen></iframe>
+#+end_html
+** Learn It - Treadle linkage
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:      
+- A treadle linkage shows how linkages can be used to change one type of motion into another.
+- In this case, the rotary motion of the cam moves a parallel-motion linkage.
+- The parallel-motion linkage controls the identical side-to-side, or oscillating motion.
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbKlerjVsms?rel=0" frameborder="0" allowfullscreen></iframe>
+#+end_html
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+1. Create a Bell-crank linkage and a Treadle linkage.
+2. Research and report on two uses for each of these types of linkage.
+3. Your report should include images of your linkages, and explanation of how they work, and examples of their use, including diagrams.
