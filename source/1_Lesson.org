@@ -3,12 +3,12 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 #+TITLE: An Introduction to Mechanisms
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott updated by C Delport
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+            <a href="https://github.com/stcd11/7-SC-Mechanisms">Fork me on GitHub</a>
         </div>
     </div>
     <div class="github-fork-ribbon-wrapper right-bottom">
@@ -118,13 +118,7 @@ Give me a place to stand, and I shall move the Earth with it
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Copy and complete the following three sentences.
-*** First-class lever
-A first-class lever is a lever where the =__________= is in between the effort and resistance (the load). =__________= and  =__________= are examples of first class levers.
-*** Second-class lever
-A second-class lever is where the resistance is between the =__________= and the =_________=. =___________= and =_________= are examples of second class levers.
-*** Third-class lever
-A third class lever is where the =__________= is between the resistance and the =___________=. =_________= and =____________= are examples of third class levers.
+- Click in the following [[https://www.bournetolearn.com/quizzes/y9-mech/Lesson_1/silver][link]] to complete the quiz on the different types of levers.
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
@@ -136,7 +130,7 @@ A third class lever is where the =__________= is between the resistance and the 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Using the connectors as beams, your finger as the effort and an elastic band as the resistance, build all three classes of leaver, and use video to evidence them working.
+- Using the connectors as beams, your finger as the effort and an elastic band as the resistance, build all three classes of lever, take a photo of your *second class* level and upload to www.bournetolearn.com.
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -170,5 +164,5 @@ A third class lever is where the =__________= is between the resistance and the 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Below are some diagrams of levers. For each one, calculate the input force required and make sure your answer is in Newtons (N).
+- Click on the [[https://www.bournetolearn.com/quizzes/y9-mech/Lesson_1/platinum][link]] to fill in the quiz on the calculations shown below.
 [[file:img/leverquestions.jpg]]

@@ -3,12 +3,12 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 #+TITLE: An Introduction to Mechanisms
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott updated by C Delport
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+            <a href="https://github.com/stcd11/7-SC-Mechanisms">Fork me on GitHub</a>
         </div>
     </div>
     <div class="github-fork-ribbon-wrapper right-bottom">
@@ -124,7 +124,7 @@
 :END:
 1. Replicate the reverse-motion linkage shown above using Wacano
 2. Adjust the pivot, so that a small input displacement becomes a large output displacement.
-3. Adjust the pivot, so that a small input force becomes a large output force.
+3. Adjust the pivot, so that a small input force becomes a large output force. *Take a photo of this one and upload your work*.
 ** Learn It - Parallel-motion linkage
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -141,6 +141,7 @@
 :END:
 - Set up a parallel linkage using Wacono, to give provide the largest possible force on the rubber band.
 - If an input force of 5N moving a distance of 10cm was used, what would be the output force if the output distance was 2cm?
+- Take a photo of your linkage and upload this with your explanation.
 ** Learn It - Bell-crank linkage
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -167,4 +168,4 @@
 :END:
 1. Create a Bell-crank linkage and a Treadle linkage.
 2. Research and report on two uses for each of these types of linkage.
-3. Your report should include images of your linkages, and explanation of how they work, and examples of their use, including diagrams.
+3. Your report should include images of your linkages on *one document*, and explanation of how they work, and examples of their use, including diagrams.
