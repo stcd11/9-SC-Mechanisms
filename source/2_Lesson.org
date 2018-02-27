@@ -114,53 +114,13 @@
 - The =driver= pulley has a diameter of 40mm and revolves at 100 revolutions per minute (=rpm=).
 - The =driven= pulley has a diameter of 120mm
 - If we want to calculate the rpm of the driven pulley, we first need to find out the =velocity ratio=.
-#+begin_html
-<math>
-<mi>velocity ratio</mi>
-<mo>=</mo>
-<mfrac>
-<mi>diameter of driven pulley</mi>
-<mi>diameter of driver pulley</mi>
-</mfrac>
-</math>
-#+end_html
+[[./img/VR_formula.PNG]]
 - So in this case we can see that...
-#+begin_html
-<math>
-<mi>velocity ratio</mi>
-<mo>=</mo>
-<mfrac>
-<mn>120</mn>
-<mn>40</mn>
-</mfrac>
-<mo>=</mo>
-<mn>3</mn>
-</math>
-#+end_html
+[[./img/VR_formula_in.PNG]]
 - The output speed of a pulley system is calculated as follows.
-#+begin_html
-<math>
-<mi>output speed</mi>
-<mo>=</mo>
-<mfrac>
-<mi>input speed</mi>
-<mi>velocity ratio</mi>
-</mfrac>
-</math>
-#+end_html
+[[./img/SR_formula.PNG]]
 - So in this case we can see that
-#+begin_html
-<math>
-<mi>output speed</mi>
-<mo>=</mo>
-<mfrac>
-<mi>100</mi>
-<mi>3</mi>
-</mfrac>
-<mo>=</mo>
-<mn>33.3</mn>
-</math>
-#+end_html
+[[./img/SR_formula_in.PNG]]
 - So the driven pulley will rotate at 33.3rpm.
 ** Badge It - Silver
 :PROPERTIES:
