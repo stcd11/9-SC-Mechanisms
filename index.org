@@ -26,11 +26,15 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:      
-* [[file:pages/4_Lesson.html][Week 4 - Four Bar Linkage]]
+* [[file:pages/5_Lesson.html][Week 4 - Gears]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:      
-* [[file:pages/evaluation.html][Week 5 - Evaluation]]
+* [[file:pages/4_Lesson.html][Week 5 - Four Bar Linkage]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:      
+* [[file:pages/evaluation.html][Week 6 - Evaluation]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:      

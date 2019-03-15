@@ -1,0 +1,201 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: An Introduction to Mechanisms
+#+AUTHOR: P Dougall
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/stcd11/9-SC-Mechanisms">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Gears
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Gears work a little like pulleys without the need for a belt. The two rotating parts have teeth that mesh together passing the motion from one gear to the next.
+
+http://www.technologystudent.com/gears1/gear1a.gif
+
+- We can use gears to change:
+  - The direction of motion
+  - The speed
+
+- The advantage of a gear over a pulley is the meshing prevents slippage so greater forces can be applied.
+
+** Learn It - Gear calculation
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Velocity ratio = number of teeth on the driven gear / number of the teeth on the driver gear = input speed / output speed
+
+Output speed = input speed / ratio
+
+Here is a worked example:
+ 
+[[file:img/week5A.JPG]]
+
+** Learn It - Idle gears
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- An idle gear is used to change the direction of the output/driven gear or used to connect gears where a large centre distance is needed.
+- They do not change the speed ratio.
+
+http://www.technologystudent.com/gears1/gear5a.gif
+
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+Using a word processor and calculator answer the following questions:
+
+[[file:img/week5B.JPG]]
+
+To get the badge upload your calculations and then complete the quiz here.
+
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Using a Wakano set build and photograph the following gear trains:
+- 1:3 ratio
+- 1:2 ratio
+- 1:1 same direction
+
+Photograph *all* three at the same time for the gold badge.
+
+** Learn It - Gear trains
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:      
+- Gear trains, two or more gear joined together, can be simple or compound. 
+- The difference Compound gear trains have more than one gear on a shaft.
+
+[[file:img/week5C.jpeg]]
+
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+1. Build a compound gear train.
+2. Research and report on bevel gears and rack and pinion.
+3. Your report should include an image of your compound gear train and an explanation of how, (bevel and rack and pinion) they work, and examples of their use, including diagrams.
+
+** Learn It - Advanced mechanisms
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:      
+- As an extension task try and build any/all of the following four mechanisms:
+
+- *Crank and slider*
+
+[[file:img/crank link and slider.JPG]]
+[[file:img/crank link and slider 2.JPG]]
+
+- *Peg and slot*
+
+[[file:img/peg and slot 1.JPG]]
+[[file:img/peg and slot 2.JPG]]
+[[file:img/peg and slot 3.JPG]]
+
+
+- *Peg slot and slider*
+
+[[file:img/peg slot and slider.JPG
+]][[file:img/peg slot and slider 2.JPG]]
+
+- *Rack and pinion*
+
+[[file:img/rack and pinion.JPG]]
+[[file:img/rack and pinion 2.JPG]]
+
