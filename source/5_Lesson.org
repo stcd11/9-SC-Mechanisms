@@ -141,7 +141,7 @@ Using a word processor and calculator answer the following questions:
 
 [[file:img/week5B.JPG]]
 
-To get the badge upload your calculations and then complete the quiz here.
+To get the badge upload your calculations and then complete the quiz [[https://www.bournetolearn.com/quizzes/y8-mech/Lesson_4/Badge_1/popquiz.php][here]].
 
 ** Badge It - Gold
 :PROPERTIES:
