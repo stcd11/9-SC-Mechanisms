@@ -107,7 +107,7 @@ Give me a place to stand, and I shall move the Earth with it
 #+end_quote
 [[https://upload.wikimedia.org/wikipedia/commons/5/51/Archimedes_lever_%28Small%29.jpg]]
 - A lever is characterised by a =beam=, which is hinged by a =fulcrum=.
-  [[http://upload.wikimedia.org/wikipedia/commons/0/03/LeverFirstClass.svg]]
+[[./img/FirstClassLever.png]]
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
