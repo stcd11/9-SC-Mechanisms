@@ -130,7 +130,7 @@ Give me a place to stand, and I shall move the Earth with it
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Using the connectors as beams, your finger as the effort and an elastic band as the resistance, build all three classes of lever, take a photo of your *second class* lever and upload to www.bournetolearn.com.
+- Using the connectors as beams, your finger as the effort and an elastic band as the resistance, build all three classes of lever, take a photo of your *second class* lever which will *increase the output force* and upload to www.bournetolearn.com.
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
