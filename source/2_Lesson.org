@@ -150,5 +150,7 @@
 - What is the relationship between the length of string you pull through the top pulley, and the height the second pulley moves?
 - Does this ratio alter if you use different sized pulleys?
 #+begin_html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bnizHHt92w0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC8OyXC2pbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+end_html
+[[./img/Compound_pulley1.JPG]]
+[[./img/Compound_pulley2.JPG]]
